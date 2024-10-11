@@ -46,10 +46,14 @@ education:
   date: Sep. 2013 - Jul. 2017
 
 experience:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+- name: Shenzhen Research Institute of Big Data
+  logo: /assets/images/badges/sribd.png
+  position: Research Scientist
+  date: Sep. 2022 - present
+- name: WeGene   
+  logo: /assets/images/badges/wegene.png
+  position: BIOINFORMATICS ENGINEER
+  date: Aug. 2017 - Sep. 2018
 
 # awards:
 # - name: Award Name 2
