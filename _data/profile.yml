@@ -1,18 +1,17 @@
-primary_name: "Your Name"
+primary_name: "Jiashun Xiao"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jiashun Xiao"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/sribd.png  # Logo is optional
+  name: Shenzhen Research Institute of Big Data (SRIBD)
 
 
-email: "your@email.com"
+email: "xiaojiashun@sribd.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: rLUTWf8AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: JiaShun-Xiao
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,7 +21,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    A  is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
     There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
@@ -30,32 +29,32 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/xjs.png
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photo on SUSTech, 2017.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: The Hong Kong University of Science and Technology (HKUST)
+  logo: /assets/images/badges/hkust.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Mathematics <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
+  date: Sep. 2018 - Aug. 2022
+- name: Southern University of Science and Technology of China (SUSTech)
+  logo: /assets/images/badges/sustech.png
+  position: B.S. in BIOINFORMATICS
+  date: Sep. 2013 - Jul. 2017
+
+experience:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
+  position: Research Intern
   date: Sep. 2019 - Jul. 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
