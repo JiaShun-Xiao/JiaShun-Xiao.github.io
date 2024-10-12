@@ -53,10 +53,11 @@ experience:
   position: Bioinformatics Engineer
   date: Aug. 2017 - Sep. 2018
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+Funding:
+- name: Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 12401384), Principal Investigator
+  date: 2025-2027
+- name: Shenzhen Science and Technology Innovation Program (Grant No. RCBS20231211090613024), Principal Investigator
+  date: 2024-2026
+- name: Shenzhen Research Institute of Big Data Internal Project (Grant No. J00220230008), Principal Investigator
+  date: 2023-2024
+
