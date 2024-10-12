@@ -21,12 +21,10 @@ github: JiaShun-Xiao
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A  is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am currently a Research Scientist at the Shenzhen Institute of Big Data. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical models that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am actively recruiting visiting students who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
   </p>
 
 portrait_url: /assets/images/photos/xjs.png
@@ -42,7 +40,7 @@ education:
   date: Sep. 2018 - Aug. 2022
 - name: Southern University of Science and Technology of China (SUSTech)
   logo: /assets/images/badges/sustech.png
-  position: B.S. in BIOINFORMATICS
+  position: B.S. in Bioinformatics
   date: Sep. 2013 - Jul. 2017
 
 experience:
@@ -52,7 +50,7 @@ experience:
   date: Sep. 2022 - present
 - name: WeGene   
   logo: /assets/images/badges/wegene.png
-  position: BIOINFORMATICS ENGINEER
+  position: Bioinformatics Engineer
   date: Aug. 2017 - Sep. 2018
 
 # awards:
