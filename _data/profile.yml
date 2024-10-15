@@ -34,11 +34,9 @@ portrait_caption: >-
 education:
 - name: The Hong Kong University of Science and Technology (HKUST)
   logo: /assets/images/badges/hkust.png
-  position: >- 
-    Department of Mathematics <br/>
-    Ph.D. Student
+  position: Ph.D. Student in Mathematics
   date: Sep. 2018 - Aug. 2022
-- name: Southern University of Science and Technology of China (SUSTech)
+- name: Southern University of Science and Technology (SUSTech)
   logo: /assets/images/badges/sustech.png
   position: B.S. in Bioinformatics
   date: Sep. 2013 - Jul. 2017
@@ -54,10 +52,10 @@ experience:
   date: Aug. 2017 - Sep. 2018
 
 funding:
-- name: Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 12401384), Principal Investigator
+- name: Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 12401384), ¥30万, Principal Investigator
   date: 2025-2027
-- name: Shenzhen Science and Technology Innovation Program (Grant No. RCBS20231211090613024), Principal Investigator
+- name: Shenzhen Science and Technology Innovation Program (Grant No. RCBS20231211090613024), ¥30万, Principal Investigator
   date: 2024-2026
-- name: Shenzhen Research Institute of Big Data Internal Project (Grant No. J00220230008), Principal Investigator
+- name: Shenzhen Research Institute of Big Data Internal Project (Grant No. J00220230008), ¥10万, Principal Investigator
   date: 2023-2024
 
