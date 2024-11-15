@@ -21,7 +21,7 @@ authors:
   - Tianwei Yu*
   - Jiashun Xiao*
 links:
-  Paper: Accepted in principle
+  #Paper: Accepted in principle
   Code: https://github.com/xinyiyu/IBSEP
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

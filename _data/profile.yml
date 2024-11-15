@@ -21,7 +21,7 @@ github: JiaShun-Xiao
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently a Research Scientist at the Shenzhen Research Institute of Big Data. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical models that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
+    I am currently a research scientist at the Shenzhen Research Institute of Big Data. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical models that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
   </p>
   <p>
     I am actively recruiting visiting students who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
@@ -52,7 +52,7 @@ experience:
   date: Aug. 2017 - Sep. 2018
 
 funding:
-- name: Young Scientists Fund of the National Natural Science Foundation of China (国自然青年科学基金), ¥30万, Principal Investigator
+- name: Young Scientists Fund of the National Natural Science Foundation of China (国自然青年项目), ¥30万, Principal Investigator
   date: 2025-2027
 - name: Guangdong Natural Science Foundation General Project (广东省面上项目), ¥10万, Principal Investigator
   date: 2025-2027

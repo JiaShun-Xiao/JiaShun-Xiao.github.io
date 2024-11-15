@@ -1,7 +1,7 @@
 ---
 title:          "A Robust Statistical Approach for Finding Informative Spatially Associated Pathways"
 date:           2024-10-27 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Briefings in Bioinformatics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
