@@ -13,9 +13,10 @@ pub_date:       "2024"
 cover:          /assets/images/covers/stpath.png
 authors:
   - Leqi Tian
-  - Jiahun Xiao*
+  - Jiashun Xiao*
   - Tianwei Yu*
 links:
+  Paper: https://academic.oup.com/bib/article/25/6/bbae543/7841507
   Code: https://github.com/tianlq-prog/STpathway
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
