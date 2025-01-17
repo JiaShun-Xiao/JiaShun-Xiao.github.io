@@ -21,7 +21,7 @@ authors:
   - Tianwei Yu*
   - Jiashun Xiao*
 links:
-  Paper: https://doi.org/10.1016/j.ajhg.2024.12.018
+  Paper: https://github.com/xinyiyu/IBSEP/blob/main/2025-AJHG-IBSEP.pdf
   Code: https://github.com/xinyiyu/IBSEP
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
