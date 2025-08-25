@@ -4,7 +4,7 @@ navbar_name: "Jiashun Xiao"
 
 positions:
 - logo: /assets/images/badges/sysu.jpeg  # Logo is optional
-  name: Sun Yat-sen University
+  name: Sun Yat-sen University (https://sph.sysu.edu.cn/teacher/2896)
 
 
 email: "xiaojsh8@mail.sysu.edu.cn"
@@ -22,10 +22,10 @@ github: JiaShun-Xiao
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently a associate professor at School of Public Health, Sun Yat-sen University. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical and AI methods that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
+    I am currently an associate professor at School of Public Health, Sun Yat-sen University. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical and AI methods that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
   </p>
   <p>
-    I am actively recruiting **PhD, Master, and visiting students** who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
+    I am actively recruiting <strong>PhD and visiting students</strong> who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
   </p>
 
 portrait_url: /assets/images/photos/xjs.png
@@ -57,12 +57,14 @@ experience:
   date: Aug. 2017 - Sep. 2018
 
 funding:
-- name: Young Scientists Fund of the National Natural Science Foundation of China (国自然青年项目), ¥30万, Principal Investigator
+- name: Sun Yat-sen University Startup Grant (中山大学科研启动经费), Principal Investigator
+  date: 2025-2029
+- name: Young Scientists Fund of the National Natural Science Foundation of China (国自然青年项目), Principal Investigator
   date: 2025-2027
-- name: Guangdong Natural Science Foundation General Project (广东省面上项目), ¥10万, Principal Investigator
+- name: Guangdong Natural Science Foundation General Project (广东省面上项目), Principal Investigator
   date: 2025-2027
-- name: Shenzhen Science and Technology Innovation Program (深圳市人才培养项目), ¥30万, Principal Investigator
+- name: Shenzhen Science and Technology Innovation Program (深圳市人才培养项目), Principal Investigator
   date: 2024-2026
-- name: Shenzhen Research Institute of Big Data Internal Project (深圳市大数据研究院内部项目), ¥10万, Principal Investigator
+- name: Shenzhen Research Institute of Big Data Internal Project (深圳市大数据研究院内部项目), Principal Investigator
   date: 2023-2024
 
