@@ -3,11 +3,11 @@ secondary_name: ""
 navbar_name: "Jiashun Xiao"
 
 positions:
-- logo: /assets/images/badges/sribd.png  # Logo is optional
-  name: Shenzhen Research Institute of Big Data (SRIBD)
+- logo: /assets/images/badges/sysu.jpeg  # Logo is optional
+  name: Sun Yat-sen University
 
 
-email: "jxiaoae@connect.ust.hk"
+email: "xiaojsh8@mail.sysu.edu.cn"
 cv_link: /assets/cv.pdf
 cv_link2: /assets/cv2.pdf
 gscholar: rLUTWf8AAAAJ  # This is an example, replace it with your own Google Scholar ID
@@ -22,10 +22,10 @@ github: JiaShun-Xiao
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently a research scientist at the Shenzhen Research Institute of Big Data. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical and AI methods that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
+    I am currently a associate professor at School of Public Health, Sun Yat-sen University. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical and AI methods that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
   </p>
   <p>
-    I am actively recruiting visiting students who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
+    I am actively recruiting **PhD, Master, and visiting students** who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
   </p>
 
 portrait_url: /assets/images/photos/xjs.png
@@ -44,9 +44,13 @@ education:
 
 experience:
 - name: Shenzhen Research Institute of Big Data
+  logo: /assets/images/badges/sysu.jpeg
+  position: Associate professor
+  date: Aug. 2025 - present
+- name: Shenzhen Research Institute of Big Data
   logo: /assets/images/badges/sribd.png
   position: Research Scientist
-  date: Sep. 2022 - present
+  date: Sep. 2022 - May 2025
 - name: WeGene   
   logo: /assets/images/badges/wegene.png
   position: Bioinformatics Engineer
