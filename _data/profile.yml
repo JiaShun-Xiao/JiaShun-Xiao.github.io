@@ -25,7 +25,7 @@ short_bio: >-
     I am currently an associate professor at School of Public Health, Sun Yat-sen University. I earned my Bachelor's degree in Bioinformatics from Southern University of Science and Technology in 2017, followed by a PhD in Mathematics from the Hong Kong University of Science and Technology in 2022. My research interests encompass statistical genetics, bioinformatics, and the development of statistical and AI methods that leverage spatial transcriptomic and multi-omics data. I am particularly focused on advancing methodologies that enhance our understanding of complex biological systems through integrative data analysis.
   </p>
   <p>
-    I am actively recruiting <strong>PhD and visiting students</strong> who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
+    I am actively recruiting <strong>PhD students</strong> who are passionate about these fields and wish to contribute to innovative research. If you are interested in collaborating or learning more about potential opportunities, please feel free to reach out.
   </p>
 
 portrait_url: /assets/images/photos/xjs.png
@@ -43,7 +43,7 @@ education:
   date: Sep. 2013 - Jul. 2017
 
 experience:
-- name: Shenzhen Research Institute of Big Data
+- name: Sun Yat-sen University
   logo: /assets/images/badges/sysu.jpeg
   position: Associate professor
   date: Aug. 2025 - present
@@ -58,7 +58,7 @@ experience:
 
 funding:
 - name: Sun Yat-sen University Startup Grant (中山大学科研启动经费), Principal Investigator
-  date: 2025-2029
+  date: 2026-2028
 - name: Young Scientists Fund of the National Natural Science Foundation of China (国自然青年项目), Principal Investigator
   date: 2025-2027
 - name: Guangdong Natural Science Foundation General Project (广东省面上项目), Principal Investigator
