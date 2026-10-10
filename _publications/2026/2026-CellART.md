@@ -1,8 +1,8 @@
 ---
 title:          "CellART: a unified framework for extracting single-cell information from high-resolution spatial transcriptomics"
-date:           2026-2-01 00:01:00 +0800
+date:           2026-10-01 00:01:00 +0800
 selected:       true
-pub:            "Nature Computational Science (In revision)"
+pub:            "Nature Computational Science"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -23,7 +23,7 @@ authors:
   - Jiashun Xiao*
   - Can Yang*
 links:
-  #Paper: https://www.biorxiv.org/content/10.1101/2025.08.21.671426v1
+  Paper: https://www.nature.com/articles/s43588-026-01054-1
   Code: https://github.com/YangLabHKUST/CellART
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
